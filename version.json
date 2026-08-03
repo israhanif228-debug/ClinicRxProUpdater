@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/israhanif228-debug/ClinicRxProUpdater/releases/download/v1.0.0/ClinicRxPro_Setup.exe",
-   "changes": "Bug fixes and performance improvements"
+  "version": "1.0.1",
+  "url": "https://github.com/israhanif228-debug/ClinicRxProUpdater/releases/download/v1.0.1/ClinicRxPro_Setup.exe",
+  "changes": "• Added Cardiology Module\n• Added Hypertension + Diabetes Module\n• Separate database support\n• Performance improvements"
 }
